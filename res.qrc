@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>BG_turbina.mp3</file>
+        <file>shoot.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Enemy_front.png</file>
+        <file>Su-47_front.png</file>
+        <file>Su-47_leftside.png</file>
+        <file>Su-47_rightside.png</file>
+        <file>Rocket.png</file>
+        <file>Background1.png</file>
+        <file>Su-47.png</file>
+    </qresource>
+</RCC>
